@@ -9,3 +9,5 @@ Advanced level is implemented, purpose on practicing!
 - Maze problem
 - Constants
 - Vectors
+- value passing by reference
+- value passing by copy
