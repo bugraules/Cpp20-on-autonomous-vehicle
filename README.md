@@ -5,7 +5,7 @@ C++20 implemantations on autonomous systems
 Advanced level is implemented, purpose on practicing!
 
 # Contents
-Heuristic
-Maze problem
-Constants
-Vectors
+- Heuristic
+- Maze problem
+- Constants
+- Vectors
