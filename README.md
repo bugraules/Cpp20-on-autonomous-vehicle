@@ -5,9 +5,10 @@ C++20 implemantations on autonomous systems
 Advanced level is implemented, purpose on practicing!
 
 # Contents
+- A* Search algorithm
 - Heuristic
 - Maze problem
-- Constants
-- Vectors
+- const & constexpr
+- vectors
 - value passing by reference
 - value passing by copy
