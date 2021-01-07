@@ -12,3 +12,4 @@ Advanced level is implemented, purpose on practicing!
 - vectors
 - value passing by reference
 - value passing by copy
+- arrays
